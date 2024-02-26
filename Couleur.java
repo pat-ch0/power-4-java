@@ -1,0 +1,1 @@
+public enum Couleur{R, J, O}; //O pour vide
